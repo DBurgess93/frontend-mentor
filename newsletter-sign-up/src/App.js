@@ -1,3 +1,4 @@
+import './App.scss'
 
 const Signup = () => {
   return (
@@ -18,6 +19,7 @@ const Signup = () => {
           </form>
         </div>
         <div>
+          <h2>yo</h2>
         </div>
       </div>
     </div>
